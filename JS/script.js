@@ -77,4 +77,5 @@ tCopy.addEventListener("click", (evt) => {
 aba.addEventListener("click", (evt) => {
     paragrafo.classList.toggle("none");
     calc.classList.toggle("exibir");
+
 });

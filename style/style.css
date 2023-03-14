@@ -106,3 +106,8 @@
 .none {
     display: none;
 }
+
+#setas {
+    width: 16px;
+    height: 16px;
+}
